@@ -455,7 +455,7 @@ header img{
   margin-top: 40px;
   display: grid;
   grid-template-columns:  60% 60%;
-  grid-template-rows: ;
+
   justify-content: center;
   gap: 30px;
   grid-template-areas: 
@@ -482,5 +482,6 @@ header img{
 .section4 ul li:nth-child(5){
   grid-area: box5;
   transform: translateX(-60%);
+}
 }
 }
